@@ -5,4 +5,4 @@ Live site: https://gdg-jalandhar-project.vercel.app/
 
 ### Certificate
 
-[![N|Certificate](https://ik.imagekit.io/ashutoshtiwari/gdg-certificate.png?updatedAt=1680408910605)]
+![N|Certificate](https://ik.imagekit.io/ashutoshtiwari/gdg-certificate.png?updatedAt=1680408910605)
